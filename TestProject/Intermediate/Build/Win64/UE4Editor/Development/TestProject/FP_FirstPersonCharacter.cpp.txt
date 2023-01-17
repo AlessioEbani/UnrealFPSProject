@@ -1,0 +1,40 @@
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Development\TestProject\Definitions.TestProject.h
+D:\Axel\Accademia\Unreal\TestProject\Source\TestProject\MyScripts\FP_FirstPersonCharacter.h
+D:\Axel\Accademia\Unreal\TestProject\Source\TestProject\MyScripts\AAnimationCharacter.h
+D:\Axel\Accademia\Unreal\TestProject\Source\TestProject\MyScripts\UHealthComponent.h
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject\UHealthComponent.generated.h
+D:\Axel\Accademia\Unreal\TestProject\Source\TestProject\MyScripts\Weapon.h
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject\Weapon.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject\AAnimationCharacter.generated.h
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject\FP_FirstPersonCharacter.generated.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h

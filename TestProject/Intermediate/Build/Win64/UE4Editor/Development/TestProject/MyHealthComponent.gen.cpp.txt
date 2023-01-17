@@ -1,0 +1,5 @@
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Development\TestProject\Definitions.TestProject.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Axel\Accademia\Unreal\TestProject\Source\TestProject/MyHealthComponent.h
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject\MyHealthComponent.generated.h

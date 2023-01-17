@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{02A631D0-4976-40EB-AB76-D7526C34622A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BAA72C4D-81ED-4A3D-BB0F-C5ECE3A6630B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestProject">
+      <UniqueIdentifier>{DAB25F3B-D7C8-455D-9ECC-5D4F802206E2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestProject\TestProject.Build.cs">
+      <Filter>Source\TestProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestProject\TestProject.cpp">
+      <Filter>Source\TestProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\TestProject.h">
+      <Filter>Source\TestProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\TestProjectCharacter.cpp">
+      <Filter>Source\TestProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\TestProjectCharacter.h">
+      <Filter>Source\TestProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\TestProjectGameMode.cpp">
+      <Filter>Source\TestProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\TestProjectGameMode.h">
+      <Filter>Source\TestProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\TestProject\FP_FirstPerson">
+      <UniqueIdentifier>{22F28A30-2E53-4666-8B75-F409209319CE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TestProject\FP_FirstPerson\FP_FirstPerson.h">
+      <Filter>Source\TestProject\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\FP_FirstPerson\FP_FirstPersonCharacter.cpp">
+      <Filter>Source\TestProject\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\FP_FirstPerson\FP_FirstPersonCharacter.h">
+      <Filter>Source\TestProject\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\FP_FirstPerson\FP_FirstPersonGameMode.cpp">
+      <Filter>Source\TestProject\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\FP_FirstPerson\FP_FirstPersonGameMode.h">
+      <Filter>Source\TestProject\FP_FirstPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\FP_FirstPerson\FP_FirstPersonHUD.cpp">
+      <Filter>Source\TestProject\FP_FirstPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\FP_FirstPerson\FP_FirstPersonHUD.h">
+      <Filter>Source\TestProject\FP_FirstPerson</Filter>
+    </ClInclude>
+    <Filter Include="Source\TestProject\MyScripts">
+      <UniqueIdentifier>{DD5CD827-C9B5-48DB-A51C-302C8F0423EE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\AAnimationCharacter.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\AAnimationCharacter.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\AlternativeEnemy.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\AlternativeEnemy.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\DangerousPickable.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\DangerousPickable.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\FirstActor.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\FirstActor.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\ListTrigger.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\ListTrigger.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\Pickable.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\Pickable.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\UHealthComponent.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\UHealthComponent.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestProject\MyScripts\Weapon.cpp">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestProject\MyScripts\Weapon.h">
+      <Filter>Source\TestProject\MyScripts</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

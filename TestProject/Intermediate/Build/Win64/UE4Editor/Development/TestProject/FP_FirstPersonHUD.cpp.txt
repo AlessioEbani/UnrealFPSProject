@@ -1,0 +1,17 @@
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Development\TestProject\Definitions.TestProject.h
+D:\Axel\Accademia\Unreal\TestProject\Source\TestProject\FP_FirstPerson\FP_FirstPersonHUD.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Axel\Accademia\Unreal\TestProject\Intermediate\Build\Win64\UE4Editor\Inc\TestProject\FP_FirstPersonHUD.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\UE\UE_4_27\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
